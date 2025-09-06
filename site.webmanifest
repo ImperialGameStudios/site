@@ -1,0 +1,16 @@
+{
+  "name": "Imperial Game Studios",
+  "short_name": "Imperial Games",
+  "description": "Crafting immersive gaming experiences that push the boundaries of technology and creativity",
+  "icons": [
+    {
+      "src": "/crown-favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#FFD700",
+  "background_color": "#1a1a2e",
+  "display": "standalone",
+  "start_url": "/"
+}
